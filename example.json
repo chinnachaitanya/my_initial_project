@@ -1,0 +1,50 @@
+{
+    "StringObject1": {"name": "Chinna Chaitanya"},
+    "StringObject2": {"message": "Welcome"},
+    "Numberobject1": {"age": 37},
+    "Numberobject2": {"pi": 3.14},
+    "Booleanobject1": {"isStudent": false},
+    "Booleanobject2": {"likesPizza": true},
+    "student": {
+        "name": "Chinna Chaitanya",
+        "age": 37,
+        "major": "MTech",
+        "hasCompletedIntroToCS": true
+    },
+    "book": {
+        "title": "Operating Systems",
+        "author": "Mach",
+        "genre": "Educational",
+        "yearPublished": 2000,
+        "isRecommended": true
+    },
+    "favoriteMovies": [
+        "Nuvve Kavali",
+        "K3G",
+        "Dangal"
+    ],
+    "courseSchedule": {
+        "courses": [
+            {
+                "name": "SCT",
+                "instructor": "Dr. MM Dhabu",
+                "credits": 4,
+                "meetingTimes": [
+                    "Mon 10AM",
+                    "Tue 11AM",
+                    "Fri 10AM"
+                ]
+            },
+            {
+                "name": "ADM",
+                "instructor": "Dr. Shital",
+                "credits": 4,
+                "meetingTimes": [
+                    "Mon 11AM",
+                    "Tue 12AM",
+                    "Fri 11AM"
+                ]
+            }
+        ]
+    }
+}
